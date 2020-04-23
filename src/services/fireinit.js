@@ -5,13 +5,13 @@ import 'firebase/firestore'
 import 'firebase/storage'
 
 const config = {
-  apiKey: 'AIzaSyAROiieEqDYmXXZQhaMf9ZEWeImtxMAJP0',
+  apiKey: 'Your API',
   authDomain: 'tr-staging-8964c.firebaseapp.com',
   databaseURL: 'https://tr-staging-8964c.firebaseio.com',
   projectId: 'tr-staging-8964c',
   storageBucket: 'tr-staging-8964c.appspot.com',
   messagingSenderId: '570768664029',
-  appId: '1:570768664029:web:63bb8dce0eadc26ac60234',
+  appId: 'app ID',
   measurementId: 'G-CW5CWL832M'
 }
 
